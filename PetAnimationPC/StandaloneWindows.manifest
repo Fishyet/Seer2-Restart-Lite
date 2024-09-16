@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3082793280
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: pfa_178
+      Dependencies: {}
+    Info_1:
+      Name: pfa_1990
+      Dependencies: {}
+    Info_2:
+      Name: pfa_962
+      Dependencies: {}
+    Info_3:
+      Name: pfa_970
+      Dependencies: {}
+    Info_4:
+      Name: pfa_988
+      Dependencies: {}
+    Info_5:
+      Name: pfa_989
+      Dependencies: {}
+    Info_6:
+      Name: pfa_990
+      Dependencies: {}
